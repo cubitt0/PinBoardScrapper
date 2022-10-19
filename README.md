@@ -6,6 +6,6 @@ Simple PHP Pinterest Board Pins Scrapper that allows you to download all pins in
 2. Use `symfony server:start` or any other webserver you want
 
 ## How to use
-Open your browser and open [web_url]/download?boardUrl=username/board.
+Open your browser and open [web_url]/download?boardUrl=username/board.  
 If board is publicly visible your browser will download zip file with all images from that board.  
 Keep in mind it might take a while depending on amount of pins on that board 
